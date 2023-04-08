@@ -11,3 +11,5 @@ Hari ini saya belajar tentang :
 2. ReactJS state
 3. ReactJS component
 4. ReactJS props
+5. ReactJS useState
+6. ReactJS useEffect
